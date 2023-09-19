@@ -5,23 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="930282df-5f58-4186-8a3d-db74908285f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MD3_ss4bt.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bt1/XoaPhanTuKhoiMang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bt1/XoaPhanTuTrung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bt2/ThemPhanTuVaoMang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bt3/Goparray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bt4/TimPTLonNhatMang2Chieu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bt5/Timgiatrinhonhattrongmang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bt6/TinhTongCacSoCot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bt7/Tongcacsoduongcheomatran.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bt8/DemSoLanXuatHienCuaKitu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bt9/PhanTuLonThu2TrongMang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bt4/TimPTLonNhatMang2Chieu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bt4/TimPTLonNhatMang2Chieu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,10 +43,24 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TinhTongCacSoCot">
+  <component name="RunManager" selected="Application.TimPTLonNhatMang2Chieu">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bt4.Main" />
+      <module name="MD3_ss4bt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bt4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PhanTuLonThu2TrongMang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bt9.PhanTuLonThu2TrongMang" />
       <module name="MD3_ss4bt" />
@@ -115,26 +113,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tongcacsoduongcheomatran" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bt7.Tongcacsoduongcheomatran" />
-      <module name="MD3_ss4bt" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bt7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TimPTLonNhatMang2Chieu" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.TinhTongCacSoCot" />
         <item itemvalue="Application.TinhTongGiaTriCot" />
         <item itemvalue="Application.PhanTuLonThu2TrongMang" />
-        <item itemvalue="Application.Tongcacsoduongcheomatran" />
-        <item itemvalue="Application.TimPTLonNhatMang2Chieu" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +131,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695106264164</updated>
-      <workItem from="1695106265236" duration="11999000" />
+      <workItem from="1695106265236" duration="13568000" />
     </task>
     <servers />
   </component>
